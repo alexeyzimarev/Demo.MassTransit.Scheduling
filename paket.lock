@@ -1,0 +1,14 @@
+NUGET
+  remote: https://www.nuget.org/api/v2
+  specs:
+    MassTransit (3.2.3)
+      NewId (>= 2.1.3)
+      Newtonsoft.Json (>= 7.0.1)
+    MassTransit.RabbitMQ (3.2.3)
+      MassTransit (>= 3.2.3)
+      NewId (>= 2.1.3)
+      Newtonsoft.Json (>= 7.0.1)
+      RabbitMQ.Client (>= 3.6.1)
+    NewId (2.1.3)
+    Newtonsoft.Json (8.0.3)
+    RabbitMQ.Client (3.6.1)

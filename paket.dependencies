@@ -1,0 +1,5 @@
+source https://abax.myget.org/F/abax/auth/1e232466-e2c2-4d3f-af8a-f178ac72b941/api/v2
+source https://www.nuget.org/api/v2/
+
+nuget MassTransit
+nuget MassTransit.RabbitMq
